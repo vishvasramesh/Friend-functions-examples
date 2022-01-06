@@ -36,9 +36,9 @@ void max(XYZ m,ABC n)
 int main()
 {
      ABC abc;
-     abc.setvalue(10);
+     abc.setvalue(100);
      XYZ xyz;
-     xyz.setvalue(20);
+     xyz.setvalue(200);
      max(xyz,abc);
      return 0;
 }
